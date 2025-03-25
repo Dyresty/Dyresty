@@ -1,4 +1,4 @@
-<!--# 💫 About Me:
+# 💫 About Me:
 Hey there!! <br><br>I am currently doing my Masters in Autonomous Driving at Hochschule Coburg<br>I am currently doing projects on Machine Learning and Deep Learning. <br><br>I am also learning German and Music :)
 
 
@@ -17,5 +17,4 @@ Hey there!! <br><br>I am currently doing my Masters in Autonomous Driving at Hoc
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dyresty&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
