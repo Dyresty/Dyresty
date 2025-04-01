@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rochan Kumar Saravanakannan!
+# 👋 Hi, I'm Rochan Kumar Saravanakannan
 
 🚀 Machine Learning & Computer Vision Enthusiast | 🛠 Autonomous Systems & Deep Learning | 🎲 Game Development Hobbyist | ❤️ Music and Travel Lover 
 
